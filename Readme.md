@@ -11,7 +11,6 @@ API REST desarrollada con Spring Boot para gestionar productos y pedidos en un s
 - 🔍 Búsqueda avanzada por nombre de producto.
 - 🖼️ Soporte para imágenes, stock, categorías y descripciones detalladas.
 - 🔐 Autenticación básica (HTTP Basic) con usuarios en memoria.
-- 🛡️ Preparado para autenticación con JWT (token bearer).
 - 🌱 Perfiles `prod` y `dev` separados con su configuración correspondiente (H2 / MySQL).
 - 🧪 Probado con Insomnia.
 - 🧩 Separación por capas: entidad, DTO, servicio, repositorio y controlador.

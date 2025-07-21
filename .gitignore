@@ -1,0 +1,46 @@
+# Archivos generados por Maven
+target/
+build/
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas del IDE (IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Spring Tool Suite (STS)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Archivos del wrapper de Maven
+.mvn/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Archivos de configuración que NO deben subirse (variables de entorno, secretos, etc.)
+.env
+.env.local
+.env.*.local
+
+# Archivos que podrías haber generado pero que no aportan al profe (docs temporales)
+HELP.md
+
+# Archivos del backend que no deben subir si no están vacíos
+logs/
+*.log
+*.tmp
+
+
+

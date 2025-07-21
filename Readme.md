@@ -65,5 +65,4 @@ API REST desarrollada con Spring Boot para gestionar productos y pedidos en un s
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TuUsuario/ecommerce-api.git
-cd ecommerce-api
+git clone https://github.com/DiegojF147/ecommerce-api.git
